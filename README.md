@@ -4,6 +4,6 @@
 </p>
 <p align="center">Soy <strong>Desarrollador Full Stack</strong> con 5 años experiencia. <br />¡Echa un vistazo a mis repositorios 👇!</p>
 
-<p align="center" width="300">
+<!--<p align="center" width="300">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migudevelop&layout=compact&theme=tokyonight" />
-</p>
+</p>-->
